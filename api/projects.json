@@ -2,9 +2,29 @@
   {
     "name": "SORTCards",
     "thumbnail": "sortcards.jpg",
-    "description": "Web App for tracking employee attendance, 201 filing and payrolls.",
+    "description": "A Membership Management System for a local organization and cooperatives. This is a web-based application which allows the admin to manage their members, print requests, and payments. The members can also log in to view their profile.",
     "url": "https://sortcards.com/",
     "technology": "Laravel, Vue.js - PHP, HTML5, CSS, JavaScript, MySQL",
+    "hidden": false
+  },
+  {
+    "name": "Contour Homes",
+    "thumbnail": "contourhomes.png",
+    "description": "Real Estate Company Website to showcase their available properties and communities. This is built using a Page Builder plugin and custom-styled templates.",
+    "employer": "SquareFish Inc.",
+    "employer_url": "",
+    "url": "https://contour.homes/",
+    "technology": "WordPress - PHP, HTML5, CSS, jQuery, MySQL. WPBakery Page Builder for the layout.",
+    "hidden": false
+  },
+  {
+    "name": "SquareFish Inc.",
+    "thumbnail": "squarefish.png",
+    "description": "A web development company specializing in creating custom websites and applications.",
+    "employer": "SquareFish Inc.",
+    "employer_url": "https://squarefish.com/",
+    "url": "https://squarefish.com/",
+    "technology": "WordPress, Laravel, Vue.js - PHP, HTML5, CSS, JavaScript, MySQL",
     "hidden": false
   },
   {
